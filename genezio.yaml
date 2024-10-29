@@ -1,0 +1,10 @@
+frontend:
+    path: ./
+    publish: ""
+    scripts:
+        build: ""
+        deploy: ""
+    subdomain: CountdownTimer-TeLeTiPs
+name: CountdownTimer-TeLeTiPs
+region: us-east-1
+yamlVersion: 2
